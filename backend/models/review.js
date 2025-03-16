@@ -21,9 +21,7 @@ const reviewSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  feedbackFromAI: {
-    type: String, // Result from Gemini model
-  },
+
 }, { timestamps: true });
 
 module.exports = mongoose.model("Review", reviewSchema);

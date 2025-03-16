@@ -20,7 +20,7 @@ export const products: Product[] = [
       "Experience immersive sound with our Premium Wireless Headphones. These noise-cancelling over-ear headphones deliver exceptional audio quality with deep bass and crystal-clear highs. The comfortable memory foam ear cushions make them perfect for all-day wear, while the 30-hour battery life ensures your music never stops. With quick charging capability, you get 5 hours of playback with just 10 minutes of charging.",
     price: 249.99,
     oldPrice: 299.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/ZsI5TSvF95OBRjOROxzMvywnK76i6Gy6n0jS-GvWvPU/https/imgs.search.brave.com/Yx6g7DgOwFkB1B_5wHOw1WTiI_i5mF2elrsoiUHyj10/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vSkJM/LVR1bmUtNTIwQlQt/V2lyZWxlc3Mtb24t/ZWFyLWhlYWRwaG9u/ZXMtV2hpdGVfZjY2/YzYxYWMtNzU2OS00/NzAyLTk0MTAtNjFj/NDFkZDFiNjlmLjI2/MWM5ZjI3YTczMmM0/ODAxYzgyMGI2OTc0/M2U3NzcwLmpwZWc_/b2RuSGVpZ2h0PTU4/MCZvZG5XaWR0aD01/ODAmb2RuQmc9RkZG/RkZG?format=webp&width=750&height=750",
     category: "Headphones",
     rating: 4.7,
     highlights: [
@@ -37,7 +37,7 @@ export const products: Product[] = [
     description: "55-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps",
     price: 699.99,
     oldPrice: 799.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/xsiBznlE6AKk2oPaLiVjEg_PrLqeNxTJ67FWxinO_OE/https/imgs.search.brave.com/E5H7Xzv9SxjGQ6fcLsMXC7pWwzMyOgXvUTK13fHOwtI/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzY4LzI2LzM0/LzM2MF9GXzY4MjYz/NDIyX3pmM3V2WXln/d2wyTEZIME4wUTQ0/dTZOR1BZSUp0dWRq/LmpwZw?format=webp&width=750&height=500",
     category: "Televisions",
     rating: 4.5,
     highlights: [
@@ -53,7 +53,7 @@ export const products: Product[] = [
     title: "Professional DSLR Camera",
     description: "24.1 Megapixel DSLR camera with 4K video recording",
     price: 1299.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/OCe2NC524BSXZCqOtDiX4WTQYtumFdH0cON34tYkMYM/https/imgs.search.brave.com/WNBxfaun5wnEKVg9Se-oa5KJsm9UWf2S3uzuwIKwC4w/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE5/NTEzNzIyL3Bob3Rv/L2RzbHItY2FtZXJh/LWZyb250LXZpZXcu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PU5uSmk4WlJwaC1l/ekxwcGh0RjJQX1hI/UGI1ODZGSGpRZGdM/RVhuUWwxcFk9?format=webp&width=750&height=500",
     category: "Cameras",
     rating: 4.8,
     highlights: [
@@ -69,7 +69,7 @@ export const products: Product[] = [
     title: "Flagship Smartphone",
     description: "Latest flagship smartphone with 6.7-inch OLED display and triple camera system",
     price: 999.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/BT00LM6aXLHpE5zfRQvAfH1eR6rs2eegtrQtaQqBBt0/https/imgs.search.brave.com/9dSnTHwTrquLejZigP4qWKZ4dRwvVeP2MqZC2sXXbBI/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/NDYyMDMwOS9waG90/by9pcGhvbmUtMTMt/cHJvLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz0yaDVRNDZ3/aC1lUnlQd2g0S0tu/SmhDS0ZXcWNkMmx0/Z3Y5dGRhVUxEZGJj/PQ?format=webp&width=750&height=533",
     category: "Smartphones",
     rating: 4.6,
     highlights: [
@@ -86,7 +86,7 @@ export const products: Product[] = [
     description: "13.3-inch ultra-thin laptop with 12-hour battery life",
     price: 1499.99,
     oldPrice: 1699.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/kcviLneqj28hP5ZOv3wloqpj7HW7JbE9OF-K8jT_Pxg/https/imgs.search.brave.com/E2g68PnSSmMlO3zCZiJVP3DTw36hcSPEKX6cUFrCvOU/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA0/MjQ4NTY5L3Bob3Rv/L21vZGVybi1sYXB0/b3AuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVp4YXM0YUhS/Ty1pRWdNVk1ud1h4/bUVpRGRmNTVLVVFy/V0ZhV1RUYjVKVlU9?format=webp&width=750&height=563",
     category: "Laptops",
     rating: 4.9,
     highlights: [
@@ -102,7 +102,7 @@ export const products: Product[] = [
     title: "Smart Fitness Watch",
     description: "Advanced fitness tracker with heart rate monitoring and GPS",
     price: 199.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/6a5pjo9D_U-MxwUJi8QRHPRjRg5D8mNj_jV9mycx1Us/https/imgs.search.brave.com/Lx1yafsXrQFev1lRwAm5CkJZEOgyby9CcSYcGwSy5tM/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9zdG9y/ZS5ydW5tZWZpdC5j/b20vY2RuL3Nob3Av/ZmlsZXMvZ3RzN19z/bWFydF93YXRjaF9i/bGFjay53ZWJwP3Y9/MTczNjIxMzAzNiZ3/aWR0aD0xNDQ1?format=webp&width=750&height=750",
     category: "Watches",
     rating: 4.4,
     highlights: [
@@ -119,7 +119,7 @@ export const products: Product[] = [
     description: "True wireless earbuds with noise isolation and touch controls",
     price: 129.99,
     oldPrice: 149.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/1JcgXK1JJXdfasjAu57GnhIBcZ0vXNVUQWuv_F7DbhI/https/imgs.search.brave.com/TCcEjrJC48Ei4RCw3_Gg87_Yl-BNBhNwbCh-PrHQm0U/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly91c2Eu/MW1vcmUuY29tL2Nk/bi9zaG9wL2ZpbGVz/LzFNT1JFLUFlcm8t/VHJ1ZS1XaXJlbGVz/cy1BY3RpdmUtTm9p/c2UtQ2FuY2VsbGlu/Zy1IZWFkcGhvbmVz/LVByb2R1Y3QtdmVu/ZG9yLTEwMDQyODEz/OC53ZWJwP3Y9MTcw/NDM1NjUwMSZ3aWR0/aD01MzM?format=webp&width=750&height=750",
     category: "Headphones",
     rating: 4.3,
     highlights: [
@@ -135,7 +135,7 @@ export const products: Product[] = [
     title: "Gaming Laptop",
     description: "15.6-inch gaming laptop with high-performance graphics",
     price: 1799.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/0l6PlmE3kXMM8RwA4RU4nM6jrXdfLpH4IM1h5Z359WE/https/imgs.search.brave.com/nO1vxaHdvbqHMd40t8q0qE8ECoWaetx5IB18HDI9PPM/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9jb250/ZW50LmlidXlwb3dl/ci5jb20vY2RuLWNn/aS9pbWFnZS93aWR0/aD0zODQwLGZvcm1h/dD1hdXRvLHF1YWxp/dHk9NzUvaHR0cHM6/Ly9jb250ZW50Lmli/dXlwb3dlci5jb20v/SW1hZ2VzL0NvbXBv/bmVudHMvMjY5NDIv/Q1MtSUJQLVNMQVRF/Nk0tQi00MDAucG5n/P3Y9OTVhZThkYWY0/MTFlOTViYjVhYzg0/NjUwYjY5YWQzMmZk/MmI3OTc3ZQ?format=webp&width=600&height=600",
     category: "Laptops",
     rating: 4.7,
     highlights: [
@@ -152,7 +152,7 @@ export const products: Product[] = [
     description: "20.3 Megapixel mirrorless camera with 4K video capability",
     price: 899.99,
     oldPrice: 999.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/pH9VMOmTcDuMwBUyn4XE4s-UqXWMTvQBNCpMcfY10yE/https/imgs.search.brave.com/HT87xcIAlM_itzkQ2HgW97FkY8BN5rSGwTPhIs3t9O0/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2o5/ZFprRnpEajJSbkg1/SEs0cnFWRVItMzIw/LTgwLmpwZw?format=webp&width=480&height=270",
     category: "Cameras",
     rating: 4.5,
     highlights: [
@@ -168,7 +168,7 @@ export const products: Product[] = [
     title: "Budget Smartphone",
     description: "6.5-inch smartphone with quad camera system and large battery",
     price: 299.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/sjDQkMVmkBYfLuxgmsrJ6aBmeDonPRunWEaXVY47TSM/https/imgs.search.brave.com/AqRABo4H4fwRHXOTfO_J6oOk-264dRbQym2_90Nyh8c/rs%3Afit%3A860%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE1ekdFYW96ZUwu/anBn?format=webp&width=971&height=971",
     category: "Smartphones",
     rating: 4.2,
     highlights: [
@@ -184,7 +184,7 @@ export const products: Product[] = [
     title: "Smart Home Speaker",
     description: "Voice-controlled smart speaker with premium sound",
     price: 99.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/w2qvY9Ibc5aThYQEHoMFaK9R6czE31tL5Wqv0MM_SjY/https/imgs.search.brave.com/-_cTYKrYzKrKZfvESbGmFAZbhL230RltQErXnijf4EI/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9hc3Nl/dHMuYm9zZWNyZWF0/aXZlLmNvbS90cmFu/c2Zvcm0vYzAyZTNl/ZDItY2E4YS00Zjg2/LWE0ZWQtYWU5ZGEy/YjZjZjJjL1BIU19C/bGFja18wMDNfUkdC/P2lvPXdpZHRoOjQw/MCxoZWlnaHQ6MzAw/LHRyYW5zZm9ybTpm/aXQmaW89d2lkdGg6/NDAwLGhlaWdodDoz/MDAsdHJhbnNmb3Jt/OmZpdA.jpeg?format=webp&width=338&height=450",
     category: "Speakers",
     rating: 4.4,
     highlights: [
@@ -201,7 +201,7 @@ export const products: Product[] = [
     description: "Waterproof 4K action camera with image stabilization",
     price: 349.99,
     oldPrice: 399.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/LeEj1KpGJlMQxujqiJOk-TzskvUIaOkASNVl-JIT8Os/https/imgs.search.brave.com/MUY44nKigc3MnAXfPp2pa9PxM_aDAdr4h3aPBVztmTc/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9hbHVy/YXRlay5jb20vY2Ru/L3Nob3AvZmlsZXMv/QVNDNEtXRl9Gcm9u/dC5qcGc_Zm9ybWF0/PXBqcGcmdj0xNjg5/MTk0MDAxJndpZHRo/PXt3aWR0aH0?format=webp&width=750&height=750",
     category: "Cameras",
     rating: 4.6,
     highlights: [
@@ -217,7 +217,7 @@ export const products: Product[] = [
     title: "Curved Gaming Monitor",
     description: "34-inch curved gaming monitor with 144Hz refresh rate",
     price: 499.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/485fLgg-XIhuRxzZXbqg21SzNzzVYA6ADtLC6m9UDSQ/https/imgs.search.brave.com/5RuUKLCeffhW9nYSKKu1TQ-rrvACdXzkIMZ2b_Jz4Z0/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzExa0xRVzNRR0wu/anBn?format=webp&width=750&height=750",
     category: "Monitors",
     rating: 4.7,
     highlights: [
@@ -234,7 +234,7 @@ export const products: Product[] = [
     description: "Fast wireless charging pad compatible with all Qi-enabled devices",
     price: 29.99,
     oldPrice: 39.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/Se__6rUv52AXn0705mesfcYqfhYRzlVwF-kCuLZVK0o/https/imgs.search.brave.com/x3PGVHm3ZHrP_0X4CaDXzOTAS7vyHsVTIud4X1UtnoQ/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly93d3cu/bW9waGllLmNvbS9j/ZG4vc2hvcC9maWxl/cy80MDEzMTYxOTdf/UWkyTWFnbmV0aWNX/aXJlbGVzc0NoYXJn/ZXJfSEVSTy5qcGc_/dj0xNzI4NTIyNTE2/JndpZHRoPTIwMDA?format=webp&width=750&height=750",
     category: "Accessories",
     rating: 4.3,
     highlights: [
@@ -250,7 +250,7 @@ export const products: Product[] = [
     title: "Smart Doorbell",
     description: "HD video doorbell with motion detection and two-way audio",
     price: 179.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/XRsBz-oSwxUxhdvvmR07-FWnrw_ig2LIhXflCtDUEp0/https/imgs.search.brave.com/4zH9lhnW9eo-c3pde5ePcZ3upgsXpcZv_ZpmjJJNfAI/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly93d3cu/ZmVpdC5jb20vY2Ru/L3Nob3AvZmlsZXMv/Q0FNLURPT1ItV0lG/SS0yMDI1LTAyLTEw/LmpwZz92PTE3Mzkx/NzkzNTcmd2lkdGg9/MTUwMA?format=webp&width=750&height=750",
     category: "Smart Home",
     rating: 4.5,
     highlights: ["HD video quality", "Motion detection", "Two-way audio", "Night vision", "Cloud storage option"],
@@ -261,7 +261,7 @@ export const products: Product[] = [
     description: "Waterproof portable Bluetooth speaker with 20-hour battery life",
     price: 79.99,
     oldPrice: 99.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images-ext-1.discordapp.net/external/cUCqNg6mZ36w1x4qTFaIxNjZTqNTEn5zOMlhtmXRIz8/https/imgs.search.brave.com/Qq4sHC4kQ8u1ZQEYaxWCaaBhe3Mc4Da58btFhehkdCk/rs%3Afit%3A500%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQm9z/ZS1Qb3J0YWJsZS1T/bWFydC1TcGVha2Vy/LXdpdGgtV2ktRmkt/Qmx1ZXRvb3RoLWFu/ZC1Wb2ljZS1Db250/cm9sLUJ1aWx0LWlu/LUJsYWNrXzkwZTIw/NmMzLWNmYjktNGM5/MC04OTQ3LTI1ZWRh/ZWJmODJhNC5jMjlj/ZWMwYzFiMGNkM2Nh/NTY0YjkxN2Q3ODRm/ZjVkMy5qcGVnP29k/bkhlaWdodD02NDAm/b2RuV2lkdGg9NjQw/Jm9kbkJnPUZGRkZG/Rg?format=webp&width=750&height=750",
     category: "Speakers",
     rating: 4.4,
     highlights: [
